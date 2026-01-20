@@ -4,4 +4,11 @@
     "@supabase/supabase-js": "^2.90.1",
     "axios": "^1.13.2"
   }
+    "scripts": {
+          "dev": "next dev",
+              "build": "next build",
+                  "start": "next start",
+                      "lint": "next lint"
+                        },
+    }
 }
